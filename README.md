@@ -1,2 +1,12 @@
 # Diabetes-Readmission-Dashboard
-Excel dashboard analyzing diabetic patient data (ages 0–100), including readmission rates, length of stay trends, and demographic distributions. Includes data cleaning, pivot modeling, and interactive visualizations.
+This project analyzes diabetic patient data (ages 0–100) to explore hospital readmission patterns. After cleaning and preparing the dataset in Excel, I built a dashboard visualizing:
+
+Readmission rates by gender
+
+Moving average of hospital stay length by age
+
+Patient race distribution
+
+Total readmissions
+
+Dataset is hidden but available to unhide.
